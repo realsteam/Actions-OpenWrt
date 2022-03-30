@@ -18,4 +18,4 @@
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 echo 'src-git small8 https://github.com/kenzok8/small-package' >>feeds.conf.default
 echo 'src-git infinityfreedom https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom.git' >>feeds.conf.default
-echo 'src-git opentopd  https://github.com/sirpdboy/luci-theme-opentopd' >>feeds.conf.default
+#echo 'src-git opentopd  https://github.com/sirpdboy/luci-theme-opentopd' >>feeds.conf.default
